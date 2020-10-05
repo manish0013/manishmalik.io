@@ -1,7 +1,6 @@
-# Wowchemy Website Builder
-# https://wowchemy.com
-#
-# The presence of this file is for compatibility with Blogdown and Forestry.
-# If you are not using those tools, this file may be deleted.
-#
-# The actual configuration files are stored in the `config/_default/` folder.
+# Title
+title = "This is where I collect my side projects, tricks I learnt, random musings and more ..."
+
+baseurl = "https://https://manish-malik.netlify.app/"
+
+copyright = "TBU"
